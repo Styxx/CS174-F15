@@ -510,7 +510,7 @@ int main (int argc, char **argv) {
 
 	connection = mysql_init(NULL);	
 
-	if (mysql_real_connect(connection, "54.67.13.185", "root", "cs174$", "project", 0, NULL, 0) == NULL) {
+	if (mysql_real_connect(connection, "54.193.35.94", "root", "cs174$", "project", 0, NULL, 0) == NULL) {
 		fprintf(stderr, "m0 - ERROR #%d - %s\n", mysql_errno(connection), mysql_error(connection));
 		mysql_close(connection);
 		exit(1);	

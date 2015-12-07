@@ -29,4 +29,4 @@ Compile and run `generateKeys.c`.
 Keys will be located in `paillierKeys.txt`.
 Compile code is in `gccCommands.txt`
 
-Files submitted: queries.c, SUM_HE.c, libpaillier-0.8/, Makefile. initialize.sql, paillierKeys.txt, joogKey.pem, README.md, gccCommands.txt, generateKeys.c
+Files submitted: queries.c, SUM_HE.c, libpaillier-0.8/, Makefile. initialize.sql, paillierKeys.txt, joogKey.pem, README.md, gccCommands.txt
