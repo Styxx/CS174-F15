@@ -63,5 +63,5 @@
 * `paillierKeys.txt`
 * `joogKey.pem`
 * `README.md` (older version)
-* `gccCommands.txt`
+* `gccCommands.txt` (integrated into Makefile)
 * `generateKeys.c`
