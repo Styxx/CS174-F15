@@ -1,1 +1,0 @@
-gcc generateKeys.c -lpaillier -o generateKeys -lgmp
