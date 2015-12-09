@@ -1,4 +1,4 @@
-# CS 174A - Database Final Project (Fall 2015): Cloud Paillier Cryptosystem
+# CS 174A (F15) - Database Final Project: Cloud Paillier Cryptosystem
 #### Grade: Passed all but 2 final tests.
 ##### Sahil Bissessur (SBissessur) and Vincent Chang (Styxx)
 
