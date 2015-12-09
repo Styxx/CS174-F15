@@ -6,3 +6,5 @@ udf:
 	sudo cp sum_he.so /usr/lib/mysql/plugin
 	rm sum_he.so
 
+keys:
+	gcc generateKeys.c -lpaillier -o generateKeys -lgmp
